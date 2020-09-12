@@ -1,0 +1,5 @@
+// TODO 1.event notifications,
+// TODO 2.finish resize with cards,
+// TODO 3.redux and event delegations,
+// TODO 4.add card functionality
+

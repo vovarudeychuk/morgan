@@ -1,0 +1,20 @@
+# log
+*.log
+
+# Runtime data
+.DS_Store
+*.pid
+
+# dependencies
+node_modules
+
+dist
+
+#test
+coverage
+
+yarn.lock
+
+*.idea/
+.vscode/
+.agignore
